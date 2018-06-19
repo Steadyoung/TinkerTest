@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TinkerTest</string>
+
+    <string name="tinker_fix_btn_text">tinker热修复后添加的按钮</string>
+    <string name="fix_add_btn">点击了热修复后添加的按钮！</string>
+    <string name="fix_add_iv">点击了热修复后添加的图片！</string>
+</resources>
